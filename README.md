@@ -21,8 +21,8 @@ Give yourself 1 point for each yes. Scored out of 8!
 2. Do engineers have to talk to the issue creator before starting work on an issue?
 3. Can PRs be traced back to issues?
 4. Can issues be traced back to the initial conversation?
-5. Does standup make engineers anxious?
-6. Does looking at stale issues make engineers anxious?
-7. Does sprint planning make engineers anxious?
+5. Do engineers feel standup is productive?
+6. Do engineers feel sprint planning is productive?
+7. Do engineers feel comfortable with the issue backlog?
 8. Do you regularly review your issue tracking process?
 
