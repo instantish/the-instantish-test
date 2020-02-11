@@ -22,7 +22,7 @@ Give yourself 1 point for each yes. Scored out of 8!
 3. Can PRs be traced back to issues?
 4. Can issues be traced back to the initial conversation?
 5. Does standup make engineers anxious?
-6. Does looking at old issues make engineers anxious?
+6. Does looking at stale issues make engineers anxious?
 7. Does sprint planning make engineers anxious?
 8. Do you regularly review your issue tracking process?
 
