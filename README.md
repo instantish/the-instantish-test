@@ -1,2 +1,28 @@
-# the-instantish-test
-A quick test for a healthy issue tracking process
+# The Instantish Test
+_A quick test for a healthy issue tracking process_
+
+## Why the Instantish test?
+
+Instantish is a startup. Our most valuable resource is time. And our goal is to save other startups time, by letting them spend _less_ time thinking about their issue tracking process.
+
+We're still defining what an ideal process looks like. We _do_ know it depends a lot on your company's stage. Before we define the _perfect_ process, we wanted to define a _good enough_ process.
+
+## How it works
+
+How do you know your team has an issue tracking process that's good enough?
+
+Here we propose an 8-step test, inspired by the [12-step Joel Test to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/). Like the Joel Test, each question can be answered with a yes or no, and the whole test should take less than 3 minutes.
+
+Give yourself 1 point for each yes. Scored out of 8!
+
+## The questions
+
+1. Can non-engineers create an issue without asking an engineer?
+2. Do engineers have to talk to the issue creator before starting work on an issue?
+3. Can PRs be traced back to issues?
+4. Can issues be traced back to the initial conversation?
+5. Does standup make engineers anxious?
+6. Does looking at old issues make engineers anxious?
+7. Does sprint planning make engineers anxious?
+8. Do you regularly review your issue tracking process?
+
