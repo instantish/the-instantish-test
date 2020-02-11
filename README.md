@@ -23,6 +23,6 @@ Give yourself 1 point for each yes. Scored out of 8!
 4. Can issues be traced back to the initial conversation?
 5. Do engineers feel standup is productive?
 6. Do engineers feel sprint planning is productive?
-7. Do engineers feel comfortable with the issue backlog?
+7. Do engineers feel comfortable with the length of the issue backlog?
 8. Do you regularly review your issue tracking process?
 
