@@ -1,5 +1,5 @@
 # The Instantish Test
-_A quick test for a healthy issue tracking process_
+_A quick test for a healthy issue tracking process._
 
 ## Why the Instantish test?
 
