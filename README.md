@@ -18,7 +18,7 @@ Give yourself 1 point for each yes. Scored out of 5!
 ## The questions
 
 1. Can non-engineers create an issue without asking an engineer?
-2. Do engineers have to talk to the issue creator before starting work on an issue?
+2. Do engineers have to talk to the person who created the issue before starting work on it?
 3. Can PRs be traced back to issues?
 4. Can issues be traced back to the initial conversation?
 5. Do you review your issue tracking process at least once a month?
