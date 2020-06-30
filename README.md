@@ -11,9 +11,9 @@ We're still defining what an ideal process looks like. We _do_ know it depends a
 
 How do you know your team has an issue tracking process that's good enough?
 
-Here we propose an 8-step test, inspired by the [12-step Joel Test to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/). Like the Joel Test, each question can be answered with a yes or no, and the whole test should take less than 3 minutes.
+Here we propose an 5-step test, inspired by the [12-step Joel Test to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/). Like the Joel Test, each question can be answered with a yes or no, and the whole test should take less than 2 minutes.
 
-Give yourself 1 point for each yes. Scored out of 8!
+Give yourself 1 point for each yes. Scored out of 5!
 
 ## The questions
 
@@ -21,8 +21,5 @@ Give yourself 1 point for each yes. Scored out of 8!
 2. Do engineers have to talk to the issue creator before starting work on an issue?
 3. Can PRs be traced back to issues?
 4. Can issues be traced back to the initial conversation?
-5. Do engineers feel standup is productive?
-6. Do engineers feel sprint planning is productive?
-7. Do engineers feel comfortable with the length of the issue backlog?
-8. Do you regularly review your issue tracking process?
+5. Do you review your issue tracking process at least once a month?
 
