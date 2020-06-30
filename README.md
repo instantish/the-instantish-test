@@ -5,11 +5,11 @@ _A quick test for a healthy issue tracking process_
 
 Instantish is a startup. Our most valuable resource is time. And our goal is to save other startups time, by letting them spend _less_ time thinking about their issue tracking process.
 
-We're still defining what an ideal process looks like. We _do_ know it depends a lot on your company's stage. Before we define the _perfect_ process, we wanted to define a _good enough_ process.
+We're still defining what an ideal process looks like. We _do_ know it depends a lot on your company's stage. Before we define the _perfect_ process, we wanted to define a _good_ process.
 
 ## How it works
 
-How do you know your team has an issue tracking process that's good enough?
+How do you know your team has a good issue tracking process?
 
 Here we propose an 5-step test, inspired by the [12-step Joel Test to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/). Like the Joel Test, each question can be answered with a yes or no, and the whole test should take less than 2 minutes.
 
